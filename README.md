@@ -6,13 +6,13 @@ PMH, Park Min Hyeok
 who is the student developer\
 who wanna be a full-stack developer (or aleady)\
 who creates some useful SaaS ([more..](http://short.kro.kr))\
-who manages "contributable cluster networks" (more..)\
-who manages "one-time payment hosting service" (more..)\
-who manages "CDN file hosting service" (more..)\
+who manages "contributable cluster networks" ([more..](https://trinets.xyz))\
+who manages "one-time payment hosting service" ([more..](https://trinets.xyz))\
+who manages "CDN file hosting service" ([more..](https://cdn.trinets.xyz))\
 who loves contributing\
 who hates Windows
 
-## I'm working at...
+## I'm working for...
 | Organization & Team  | Position | Links                                                                                 |
 |:-------------------- |:--------:|:------ |
 | Tritium Networks     | Owner    | [`website`](https://trinets.xyz), [`discord`](https://discord.gg/FK29Fym), [`github`](https://github.com/TritiumNetworks)
