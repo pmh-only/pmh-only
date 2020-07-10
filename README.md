@@ -2,9 +2,9 @@ oh, hello there :)\
 Welcome to PMH's Workspace!
 
 ## I'm...
-PMH, Park Min Hyeok
+PMH, Park Min Hyeok\
 who is the student developer\
-who wanna be a full-stack developer (or aleady)\
+who wanna be a full-stack developer (or already)\
 who creates some useful SaaS ([more..](http://short.kro.kr))\
 who manages "contributable cluster networks" ([more..](https://trinets.xyz))\
 who manages "one-time payment hosting service" ([more..](https://trinets.xyz))\
