@@ -17,7 +17,6 @@ who hates Windows
 |:-------------------- |:--------:|:------ |
 | Tritium Networks     | Owner    | [`website`](https://trinets.xyz), [`discord`](https://discord.gg/FK29Fym), [`github`](https://github.com/TritiumNetworks)
 | Software and Guiders | Leader   | [`github`](https://github.com/SoftWareAndGuider)
-| DiscLists            | CTO      | [`discord`](https://discord.gg/NtNH7dr), [`github`](https://github.com/DiscLists)
 | Teaddy Studio        | PM       | [`discord`](https://discord.gg/mpAJ3wS), [`github`](https://github.com/Teaddy-Studio)
 | Onder Crew           | Dev      | [`github`](https://github.com/OnderCrew)
 | Team Seoa            | Member   | [`discord`](https://discord.gg/BHS5pw3), [`website`](https://seoa.space/), [`v1`](https://github.com/seoaapp), [`v2`](https://github.com/SeoaV2)
