@@ -1,6 +1,13 @@
-oh, hello there :)\
+<img src="https://avatars0.githubusercontent.com/u/29208316?s=280&v=4" align="right" width=50>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" align="right" width=50>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" align="right" width=50>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" align="right" width=50>
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code512.png" align="right" width=50>
+
+# oh, hello there :)
 Welcome to PMH's Workspace!
 
+<!--
 ## I'm...
 PMH, Park Min Hyeok\
 who is the student developer\
