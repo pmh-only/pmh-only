@@ -43,4 +43,4 @@ Welcome to PMH's Workspace!
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=pmh-only&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/pmh-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh-only&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=6bedd4)](https://github.com/pmh-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh-only&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/pmh-only)
