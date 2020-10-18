@@ -1,4 +1,4 @@
-<img src="notexist" align="right" width=50>
+<img src="assets/dot.png" align="right" width=50>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1024px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" align="right" width=50>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" align="right" width=50>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" align="right" width=50>
