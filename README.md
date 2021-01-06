@@ -25,11 +25,12 @@ Welcome to PMH's Workspace!
   |:-------------------- |:--------:|:------ |
   | Tritium Networks     | Owner    | [`website`](https://trinets.xyz), [`discord`](https://discord.gg/FK29Fym), [`github`](https://github.com/TritiumNetworks)
   | Software and Guiders | Leader   | [`github`](https://github.com/SoftWareAndGuider)
+  | Pluxcon Network      | Dev      | [`website`](https://deplux.io), [`discord`](https://discord.gg/U9tWY8T5Y3), [`github`](https://github.com/Deplux)
   | Taedi Studio         | PM       | [`discord`](https://discord.gg/mpAJ3wS), [`github`](https://github.com/taedi-studio)
-  | Onder Crew           | Dev      | [`github`](https://github.com/OnderCrew)
   | Array [ ]            | Dev Team | [`discord`](https://discord.gg/8hwwSeV), [`github`](https://github.com/TeamArray)
   | Team Seoa            | Member   | [`discord`](https://discord.gg/BHS5pw3), [`website`](https://seoa.space/), [`v1`](https://github.com/seoaapp), [`v2`](https://github.com/SeoaV2)
   | Team Wave            | Member   | [`discord`](https://discord.gg/ctFpAHj), [`github`](https://github.com/Team-WAVE-x)
+  | Onder Crew           | Dev      | [`github`](https://github.com/OnderCrew)
 </details>
 
 <details>
