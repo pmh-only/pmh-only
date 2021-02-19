@@ -1,0 +1,14 @@
+{
+  "name": "pmh-only",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pmh-only/pmh-only.git",
+  "author": "Park Min Hyeok <pmhstudio.pmh@gmail.com>",
+  "scripts": {
+    "build": "node ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
