@@ -21,8 +21,6 @@ jobs:
         uses: borales/actions-yarn@v2.3.0
         with:
           cmd: build
-        env:
-          TOKEN: ${{ secrets.PMH_TOKEN }}
 
       - name: Commit Changes
         run: |
