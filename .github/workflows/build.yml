@@ -2,7 +2,7 @@ name: Build README
 
 on:
   schedule:
-  - cron: "*/1 * * * *"
+  - cron: "*/5 * * * *"
 
   workflow_dispatch:
 
