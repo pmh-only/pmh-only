@@ -1,0 +1,37 @@
+name: Build README
+
+on:
+  schedule:
+  - cron: "*/1 * * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Dependancies
+        uses: borales/actions-yarn@v2.3.0
+        with:
+          cmd: install
+
+      - name: Run Build
+        uses: borales/actions-yarn@v2.3.0
+        with:
+          cmd: build
+        env:
+          TOKEN: ${{ secrets.PMH_TOKEN }}
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "hayih87429@dxecig.com"
+          git config --local user.name "pmh-auto"
+          git commit -am "update $(date +'%Y-%m-%d')"
+
+      - name: Push Commit
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
