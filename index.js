@@ -13,6 +13,11 @@ const CWD = process.cwd()
 
   const template = readFileSync(CWD + '/templates/status.md').toString('utf-8')
 
+  const followings = await get('https://api.github.com/users/pmh-only/following?per_page=100').set('User-Agent', 'Github Action').set('Accept', 'application/vnd.github.v3+json')
+  const followers = await get('https://api.github.com/users/pmh-only/followers?per_page=100').set('User-Agent', 'Github Action').set('Accept', 'application/vnd.github.v3+json')
+
+  const friends = followers.body.filter((follower) => followings.body.find((following) => following.login === follower.login))
+
   const result = template
     .replace(
       '{{wakatoday.total_total_seconds}}',
@@ -30,6 +35,24 @@ const CWD = process.cwd()
     .replace('{{prefer[4].percent}}', prefer[4].percent)
     .replace('{{prefer.all}}',
       prefer.slice(5).map((curr) => `\`${curr.name} (${curr.percent}%)\``).join(' • '))
+    .replace('{{friend.table}}', createTable(friends))
 
   writeFileSync(CWD +'/README.md', result)
 })()
+
+function createTable (array) {
+  let table = '<table><tr>'
+  let c = 0
+
+  for (const item of array) {
+    table += `<td align="center"><a href="${item.html_url}"><img src="${item.avatar_url}&s=100" width="100px;"><br />${item.login}</a></td>`
+    c++
+
+    if (c % 5 === 0) {
+      table += '</tr><tr>'
+    }
+  }
+
+  table += '</tr></table>'
+  return table
+}
