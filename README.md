@@ -5,28 +5,35 @@
   <a href="mailto:pmhstudio.pmh@gmail.com">email</a> •
   <a href="https://pmh.codes/main/">site</a> •
   <a href="https://discord.gg/VbcGYnv">discord</a> 
+  <br />
+  <br />
+  <br />
+  <br />
+
+  ## Today @pmh-only works...
+  Total **`7061549`** milliseconds
+
+  <br />
+  <br />
+
+  ## @pmh-only's top 5 languages
+  |      language name | *percent                  |
+  |:------------------:|:--------------------------|
+  | JavaScript | `37.83%`  |
+  | TypeScript | `15.11%`  |
+  | EJS | `7.9%`  |
+  | HTML | `5.28%`  |
+  | Markdown | `4.48%`  |
+
+  \* percent for all my works (based on [wakatime](https://wakatime.com))
+
+  <br />
+  <br />
+
+  ## @pmh-only's friends
+  <table>
+    <table><tr><td align="center"><a href="https://github.com/csnewcs"><img src="https://avatars.githubusercontent.com/u/43161373?v=4&s=100" width="100px;"><br />csnewcs</a></td><td align="center"><a href="https://github.com/noeulnight"><img src="https://avatars.githubusercontent.com/u/44047052?v=4&s=100" width="100px;"><br />noeulnight</a></td><td align="center"><a href="https://github.com/rookieman88"><img src="https://avatars.githubusercontent.com/u/36586296?v=4&s=100" width="100px;"><br />rookieman88</a></td><td align="center"><a href="https://github.com/taedi"><img src="https://avatars.githubusercontent.com/u/42382793?v=4&s=100" width="100px;"><br />taedi</a></td><td align="center"><a href="https://github.com/ttakkku"><img src="https://avatars.githubusercontent.com/u/42809517?v=4&s=100" width="100px;"><br />ttakkku</a></td></tr><tr><td align="center"><a href="https://github.com/noamboy2006"><img src="https://avatars.githubusercontent.com/u/32446774?v=4&s=100" width="100px;"><br />noamboy2006</a></td><td align="center"><a href="https://github.com/gangjun06"><img src="https://avatars.githubusercontent.com/u/50910815?v=4&s=100" width="100px;"><br />gangjun06</a></td><td align="center"><a href="https://github.com/WorldMoat"><img src="https://avatars.githubusercontent.com/u/39121363?v=4&s=100" width="100px;"><br />WorldMoat</a></td><td align="center"><a href="https://github.com/potato179"><img src="https://avatars.githubusercontent.com/u/44293278?v=4&s=100" width="100px;"><br />potato179</a></td><td align="center"><a href="https://github.com/Bukgeuk"><img src="https://avatars.githubusercontent.com/u/41170492?v=4&s=100" width="100px;"><br />Bukgeuk</a></td></tr><tr><td align="center"><a href="https://github.com/Mincart8925"><img src="https://avatars.githubusercontent.com/u/55223245?v=4&s=100" width="100px;"><br />Mincart8925</a></td><td align="center"><a href="https://github.com/Muzihuzi"><img src="https://avatars.githubusercontent.com/u/55011525?v=4&s=100" width="100px;"><br />Muzihuzi</a></td><td align="center"><a href="https://github.com/1-EXON"><img src="https://avatars.githubusercontent.com/u/56220973?v=4&s=100" width="100px;"><br />1-EXON</a></td><td align="center"><a href="https://github.com/comjun04"><img src="https://avatars.githubusercontent.com/u/30339539?v=4&s=100" width="100px;"><br />comjun04</a></td><td align="center"><a href="https://github.com/jeongjiaowo"><img src="https://avatars.githubusercontent.com/u/58299651?v=4&s=100" width="100px;"><br />jeongjiaowo</a></td></tr><tr><td align="center"><a href="https://github.com/ditto7890"><img src="https://avatars.githubusercontent.com/u/59792804?v=4&s=100" width="100px;"><br />ditto7890</a></td><td align="center"><a href="https://github.com/DipokalLab"><img src="https://avatars.githubusercontent.com/u/48173908?v=4&s=100" width="100px;"><br />DipokalLab</a></td><td align="center"><a href="https://github.com/COIN-KR"><img src="https://avatars.githubusercontent.com/u/47521176?v=4&s=100" width="100px;"><br />COIN-KR</a></td><td align="center"><a href="https://github.com/stick0710"><img src="https://avatars.githubusercontent.com/u/60865072?v=4&s=100" width="100px;"><br />stick0710</a></td><td align="center"><a href="https://github.com/dnlstmffj"><img src="https://avatars.githubusercontent.com/u/18163921?v=4&s=100" width="100px;"><br />dnlstmffj</a></td></tr><tr><td align="center"><a href="https://github.com/KateLin-BASIC"><img src="https://avatars.githubusercontent.com/u/63230494?v=4&s=100" width="100px;"><br />KateLin-BASIC</a></td><td align="center"><a href="https://github.com/NamuTree0345"><img src="https://avatars.githubusercontent.com/u/46389044?v=4&s=100" width="100px;"><br />NamuTree0345</a></td><td align="center"><a href="https://github.com/KiRist-code"><img src="https://avatars.githubusercontent.com/u/37296174?v=4&s=100" width="100px;"><br />KiRist-code</a></td><td align="center"><a href="https://github.com/chul0721"><img src="https://avatars.githubusercontent.com/u/64084503?v=4&s=100" width="100px;"><br />chul0721</a></td><td align="center"><a href="https://github.com/DYA-Code"><img src="https://avatars.githubusercontent.com/u/51194584?v=4&s=100" width="100px;"><br />DYA-Code</a></td></tr><tr><td align="center"><a href="https://github.com/jwkim101201"><img src="https://avatars.githubusercontent.com/u/37768795?v=4&s=100" width="100px;"><br />jwkim101201</a></td><td align="center"><a href="https://github.com/CHANGHYUN1005"><img src="https://avatars.githubusercontent.com/u/52325200?v=4&s=100" width="100px;"><br />CHANGHYUN1005</a></td><td align="center"><a href="https://github.com/heosungbum"><img src="https://avatars.githubusercontent.com/u/35191431?v=4&s=100" width="100px;"><br />heosungbum</a></td><td align="center"><a href="https://github.com/VINTO1819"><img src="https://avatars.githubusercontent.com/u/46064786?v=4&s=100" width="100px;"><br />VINTO1819</a></td><td align="center"><a href="https://github.com/AkiaCode"><img src="https://avatars.githubusercontent.com/u/71239005?v=4&s=100" width="100px;"><br />AkiaCode</a></td></tr><tr><td align="center"><a href="https://github.com/rycont"><img src="https://avatars.githubusercontent.com/u/35295182?v=4&s=100" width="100px;"><br />rycont</a></td><td align="center"><a href="https://github.com/aNchor-only"><img src="https://avatars.githubusercontent.com/u/73648912?v=4&s=100" width="100px;"><br />aNchor-only</a></td><td align="center"><a href="https://github.com/Kwabang"><img src="https://avatars.githubusercontent.com/u/43908654?v=4&s=100" width="100px;"><br />Kwabang</a></td><td align="center"><a href="https://github.com/JungminMun"><img src="https://avatars.githubusercontent.com/u/57490239?v=4&s=100" width="100px;"><br />JungminMun</a></td><td align="center"><a href="https://github.com/614project"><img src="https://avatars.githubusercontent.com/u/71429443?v=4&s=100" width="100px;"><br />614project</a></td></tr><tr><td align="center"><a href="https://github.com/Pneuma714"><img src="https://avatars.githubusercontent.com/u/48142128?v=4&s=100" width="100px;"><br />Pneuma714</a></td><td align="center"><a href="https://github.com/samsunghappytree123"><img src="https://avatars.githubusercontent.com/u/58595445?v=4&s=100" width="100px;"><br />samsunghappytree123</a></td><td align="center"><a href="https://github.com/Cresendo82"><img src="https://avatars.githubusercontent.com/u/56112657?v=4&s=100" width="100px;"><br />Cresendo82</a></td><td align="center"><a href="https://github.com/Tim232"><img src="https://avatars.githubusercontent.com/u/64291996?v=4&s=100" width="100px;"><br />Tim232</a></td><td align="center"><a href="https://github.com/hooss-only"><img src="https://avatars.githubusercontent.com/u/77444677?v=4&s=100" width="100px;"><br />hooss-only</a></td></tr><tr><td align="center"><a href="https://github.com/KR-isamin"><img src="https://avatars.githubusercontent.com/u/46100072?v=4&s=100" width="100px;"><br />KR-isamin</a></td><td align="center"><a href="https://github.com/dacoev"><img src="https://avatars.githubusercontent.com/u/65448134?v=4&s=100" width="100px;"><br />dacoev</a></td><td align="center"><a href="https://github.com/dacoonkr"><img src="https://avatars.githubusercontent.com/u/61615961?v=4&s=100" width="100px;"><br />dacoonkr</a></td><td align="center"><a href="https://github.com/RevePattern"><img src="https://avatars.githubusercontent.com/u/70826039?v=4&s=100" width="100px;"><br />RevePattern</a></td></tr></table>
+  </table>
+
+  > 팔로윙과 팔로우에 포함된 사람만을 보여줍니다
 </div>
-
-<br />
-<br />
-
-## Today @pmh-only works...
-Total `7061549` milliseconds
-
-<br />
-
-## Top 5 languages
-| name | percent |
-|-----:|:--------|
-| JavaScript | `37.83%` of all my commits |
-| TypeScript | `15.11%` |
-| EJS | `7.9%` |
-| HTML | `5.28%` |
-| Markdown | `4.48%` |
-
-<br />
-
-## Other languages that I use
-`Java (4.3%)` • `CSS (3.68%)` • `JSON (3.48%)` • `Go (3.45%)` • `Other (2.86%)` • `C (2.71%)` • `Dart (1.58%)` • `Python (1.33%)` • `SQL (1.27%)` • `C# (0.9%)` • `YAML (0.86%)` • `Text (0.45%)` • `PHP (0.44%)` • `XML (0.34%)` • `Git Config (0.29%)` • `Bash (0.29%)` • `Vue.js (0.22%)` • `SCSS (0.18%)` • `Docker (0.17%)` • `CSV (0.16%)` • `Kotlin (0.08%)` • `Properties (0.07%)` • `Rust (0.06%)` • `TOML (0.04%)` • `Haskell (0.04%)` • `PowerShell (0.03%)` • `Sass (0.02%)` • `Batchfile (0.02%)` • `Verilog (0.02%)` • `reStructuredText (0.01%)` • `VB.NET (0.01%)` • `Ruby (0.01%)` • `Groovy (0.01%)` • `Aheui (0.01%)` • `Diff (0%)` • `Pug (0%)` • `fish (0%)` • `D (0%)` • `Scheme (0%)` • `GAS (0%)` • `Prolog (0%)` • `INI (0%)` • `C++ (0%)`
-
-<br />
