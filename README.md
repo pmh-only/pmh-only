@@ -22,7 +22,7 @@
   | JavaScript | `34.68%`  |
   | TypeScript | `17.97%`  |
   | EJS | `7.09%`  |
-  | HTML | `5.12%`  |
+  | HTML | `5.11%`  |
   | Markdown | `4.84%`  |
 
   \* percent for all my works (based on [wakatime](https://wakatime.com))
