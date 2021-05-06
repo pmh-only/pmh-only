@@ -20,9 +20,9 @@
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
   | JavaScript | `34.27%`  |
-  | TypeScript | `19.12%`  |
-  | EJS | `6.95%`  |
-  | HTML | `4.97%`  |
+  | TypeScript | `19.17%`  |
+  | EJS | `6.94%`  |
+  | HTML | `4.96%`  |
   | Markdown | `4.71%`  |
 
   \* percent for all my works (based on [wakatime](https://wakatime.com))
