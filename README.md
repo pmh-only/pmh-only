@@ -20,7 +20,7 @@
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
   | JavaScript | `34.27%`  |
-  | TypeScript | `19.17%`  |
+  | TypeScript | `19.18%`  |
   | EJS | `6.94%`  |
   | HTML | `4.96%`  |
   | Markdown | `4.71%`  |
