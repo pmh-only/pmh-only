@@ -19,11 +19,11 @@
   ## @pmh-only's top 5 languages
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
-  | JavaScript | `32.57%`  |
-  | TypeScript | `20.52%`  |
-  | EJS | `6.51%`  |
+  | JavaScript | `32.44%`  |
+  | TypeScript | `20.81%`  |
+  | EJS | `6.48%`  |
   | Go | `5.99%`  |
-  | HTML | `5.28%`  |
+  | HTML | `5.25%`  |
 
   \* percent for all my works (based on [wakatime](https://wakatime.com))
 
