@@ -36,4 +36,24 @@
   </table>
 
   > 팔로잉과 팔로우에 포함된 사람만을 보여줍니다
+  
+  
+  <br />
+  <br />
+  
+  ## etc.
+  <details>
+    <summary>github-profile-trophy (click me)</summary>
+    
+![](https://github-profile-trophy.vercel.app/?username=pmh-only&row=1&column=8&theme=nord)
+    
+  </details>
+  <details>
+    <summary>github-readme-stats (click me)</summary>
+    
+![](https://github-readme-stats.vercel.app/api?username=pmh-only&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh-only&theme=nord&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=pmh_only&layout=compact&theme=nord)
+    
+  </details>
 </div>
