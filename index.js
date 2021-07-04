@@ -4,11 +4,11 @@ const { get } = require('superagent')
 const CWD = process.cwd()
 
 ; (async () => {
-  const waka = await get('https://wakatime.com/share/@PMH/4b833144-380e-4c3b-a0ec-5917c17ba03e.json')
+  const waka = await get('https://wakatime.com/share/@pmh_only/4b833144-380e-4c3b-a0ec-5917c17ba03e.json')
   const wakadata = waka.body.data
   const wakatoday = wakadata.find((data) => data.range.text === 'Today')
 
-  const wakalang = await get('https://wakatime.com/share/@PMH/27fab207-0cd4-4572-8493-664ed8c35736.json')
+  const wakalang = await get('https://wakatime.com/share/@pmh_only/27fab207-0cd4-4572-8493-664ed8c35736.json')
   const prefer = wakalang.body.data
 
   const template = readFileSync(CWD + '/templates/status.md').toString('utf-8')
