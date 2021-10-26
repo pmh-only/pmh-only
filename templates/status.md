@@ -3,7 +3,7 @@
   <h1>Park Min Hyeok</h1>
   Backend Developer & Server Engineer<br />
   <a href="mailto:pmhstudio.pmh@gmail.com">email</a> •
-  <a href="https://pmh.codes/main/">site</a> •
+  <a href="https://pmh.codes">site</a> •
   <a href="https://discord.gg/VbcGYnv">discord</a> 
   <br />
   <br />
