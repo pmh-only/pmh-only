@@ -11,7 +11,7 @@
   <br />
 
   ## Today @pmh-only works...
-  Total **`406607`** milliseconds
+  Total **`1007921`** milliseconds
 
   <br />
   <br />
@@ -19,11 +19,11 @@
   ## @pmh-only's top 5 languages
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
-  | JavaScript | `28.12%`  |
-  | TypeScript | `27.86%`  |
-  | Go | `6.49%`  |
-  | EJS | `4.96%`  |
-  | HTML | `4.5%`  |
+  | JavaScript | `28.07%`  |
+  | TypeScript | `27.99%`  |
+  | Go | `6.47%`  |
+  | EJS | `4.95%`  |
+  | HTML | `4.49%`  |
 
   \* percent for all my works (based on [wakatime](https://wakatime.com))
 
