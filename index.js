@@ -48,7 +48,7 @@ function createTable (array) {
     table += `<td align="center"><a href="${item.html_url}"><img src="${item.avatar_url}&s=100" width="100px;"><br />${item.login}</a></td>`
     c++
 
-    if (c % 5 === 0) {
+    if (c % 7 === 0) {
       table += '</tr><tr>'
     }
   }
