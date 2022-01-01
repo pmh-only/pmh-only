@@ -45,10 +45,10 @@ function createTable (array) {
   let c = 0
 
   for (const item of array) {
-    table += `<td align="center"><a href="${item.html_url}"><img src="${item.avatar_url}&s=100" width="100px;"><br />${item.login}</a></td>`
+    table += `<td align="center"><a href="${item.html_url}"><img src="${item.avatar_url}&s=100" width="100px"><br />${item.login}</a></td>`
     c++
 
-    if (c % 7 === 0) {
+    if (c % 10 === 0) {
       table += '</tr><tr>'
     }
   }
