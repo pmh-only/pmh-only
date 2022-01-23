@@ -11,7 +11,7 @@
   <br />
 
   ## Today @pmh-only works...
-  Total **`1098646`** milliseconds
+  Total **`0`** milliseconds
 
   <br />
   <br />
@@ -19,7 +19,7 @@
   ## @pmh-only's top 5 languages
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
-  | TypeScript | `30%`  |
+  | TypeScript | `30.01%`  |
   | JavaScript | `26.86%`  |
   | Go | `6.49%`  |
   | EJS | `4.69%`  |
