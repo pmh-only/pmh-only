@@ -11,7 +11,7 @@
   <br />
 
   ## Today @pmh-only works...
-  Total **`1200000`** milliseconds
+  Total **`1918000`** milliseconds
 
   <br />
   <br />
