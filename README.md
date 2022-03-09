@@ -20,10 +20,10 @@
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
   | TypeScript | `30.89%`  |
-  | JavaScript | `26.23%`  |
-  | Go | `6.81%`  |
-  | EJS | `4.56%`  |
-  | HTML | `4.31%`  |
+  | JavaScript | `26.25%`  |
+  | Go | `6.8%`  |
+  | EJS | `4.55%`  |
+  | HTML | `4.3%`  |
 
   \* percent for all my works (based on [wakatime](https://wakatime.com))
 
