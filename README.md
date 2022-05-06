@@ -20,7 +20,7 @@
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
   | TypeScript | `31.28%`  |
-  | JavaScript | `25.41%`  |
+  | JavaScript | `25.4%`  |
   | Go | `6.81%`  |
   | EJS | `4.39%`  |
   | HTML | `4.19%`  |
