@@ -8,28 +8,23 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-latest 
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Dependancies
-        uses: borales/actions-yarn@v2.3.0
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          cmd: install
-
-      - name: Run Build
-        uses: borales/actions-yarn@v2.3.0
-        with:
-          cmd: build
-
-      - name: Commit Changes
-        run: |
-          git config --local user.email "hayih87429@dxecig.com"
-          git config --local user.name "pmh-auto"
-          git commit -am "update $(date +'%Y-%m-%d')"
-
-      - name: Push Commit
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          node-version: '16.x'
+      - run: npx yarn
+      - run: npx yarn build
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          export COMMIT_ID=$(git log --format="%H" -n 1)
+          git add .
+          git commit -m "build: \`${COMMIT_ID}\` commit"
+          git remote set-url origin --push https://github-actions[bot]:${GITHUB_TOKEN}@github.com/pmh-only/pmh-only.git
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
