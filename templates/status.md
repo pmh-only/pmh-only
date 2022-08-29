@@ -1,18 +1,12 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/39158228?s=460&u=85a513dbfe77b73d9f7aa9c85e3e973cb69caba6&v=4" width="200px"/>
-  <h1>Park Min Hyeok</h1>
-  Backend Developer & Server Engineer<br />
-  <a href="mailto:pmhstudio.pmh@gmail.com">email</a> •
-  <a href="https://pmh.codes">site</a> •
-  <a href="https://discord.gg/VbcGYnv">discord</a> 
+  <h1>Minhyeok Park</h1>
+  Cloud Architect & Backend Developer<br />
+  <a href="mailto:opensource@pmh.codes">email</a> •
+  <a href="https://pmh.codes">site</a>
   <br />
   <br />
   <br />
-  <br />
-
-  ## Today @pmh-only works...
-  Total **`{{wakatoday.total_total_seconds}}`** milliseconds
-
   <br />
   <br />
 
