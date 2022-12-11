@@ -13,9 +13,9 @@
   ## @pmh-only's top 5 languages
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
-  | TypeScript | `35.26%`  |
-  | JavaScript | `23%`  |
-  | Go | `5.81%`  |
+  | TypeScript | `35.35%`  |
+  | JavaScript | `22.96%`  |
+  | Go | `5.8%`  |
   | HTML | `3.74%`  |
   | EJS | `3.7%`  |
 
