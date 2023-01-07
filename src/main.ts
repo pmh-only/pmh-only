@@ -1,5 +1,7 @@
-void (async () => {
+import { FriendsFetcher } from './fetchers/github/FriendsFetcher'
 
+void (async () => {
+  console.log((await new FriendsFetcher().fetch()).friends.map((v) => v.login))
 })()
 
 // const { readFileSync, writeFileSync } = require('fs')
