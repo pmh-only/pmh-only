@@ -1,7 +1,7 @@
-import { WAKATIME_TOTAL_STATICS_URL } from '../consts'
-import { WakatimeTotalStaticsData } from '../entity/WakatimeTotalStaticsData'
-import { DataFetcherBuilder } from './DataFetcherBuilder'
-import { IFetcher } from './IFetcher'
+import { WAKATIME_TOTAL_STATICS_URL } from '../../consts'
+import { WakatimeTotalStaticsData } from './entity/WakatimeTotalStaticsData'
+import { DataFetcherBuilder } from '../DataFetcherBuilder'
+import { IFetcher } from '../IFetcher'
 
 export interface TodayWorkData {
   today: number
@@ -14,9 +14,9 @@ export class TodayWorkFetcher implements IFetcher<TodayWorkData> {
       .addHeader('Content-Type', 'application/json')
       .build()
 
-  private readonly process = (data: WakatimeTotalStaticsData): TodayWorkData =>
+  private readonly calcTotalSeconds = (data: WakatimeTotalStaticsData): TodayWorkData =>
     ({ today: data.data.find((v) => v.range.text === 'Today')?.grand_total.total_seconds ?? 0 })
 
   public readonly fetch = async (): Promise<TodayWorkData> =>
-    await this.fetcher.fetch().then(this.process)
+    await this.fetcher.fetch().then(this.calcTotalSeconds)
 }

@@ -11,7 +11,7 @@ export const GITHUB_ENDPOINT_URL =
   'https://api.github.com/users'
 
 export const GITHUB_FOLLOWER_LIST_URL = (page: number): string =>
-  `${GITHUB_ENDPOINT_URL}/pmh-only/follower?per_page=100&page=${page}`
+  `${GITHUB_ENDPOINT_URL}/pmh-only/followers?per_page=100&page=${page}`
 
 export const GITHUB_FOLLOWING_LIST_URL = (page: number): string =>
   `${GITHUB_ENDPOINT_URL}/pmh-only/following?per_page=100&page=${page}`
