@@ -1,14 +1,30 @@
 {
   "name": "pmh-only",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/pmh-only/pmh-only.git",
-  "author": "Park Min Hyeok <pmhstudio.pmh@gmail.com>",
+  "description": "",
+  "main": "dist/main.js",
   "scripts": {
-    "build": "node ."
+    "build": "tsc",
+    "lint": "eslint src",
+    "start": "pnpm lint && pnpm build && node dist/main.js",
+    "start:dev": "nodemon -e .ts --exec 'pnpm start'"
   },
+  "keywords": [],
+  "author": "Minhyeok Park <opensource@pmh.codes>",
   "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "eslint": "^8.30.0",
+    "eslint-config-standard-with-typescript": "^24.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "nodemon": "^2.0.20",
+    "pnpm": "^7.21.0",
+    "typescript": "^4.9.4"
+  },
   "dependencies": {
-    "superagent": "^6.1.0"
+    "undici": "^5.14.0"
   }
 }
