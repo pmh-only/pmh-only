@@ -9,6 +9,7 @@ export interface FriendsData {
   friends: Array<{
     login: string
     avatar_url: string
+    html_url: string
   }>
 }
 
@@ -32,7 +33,7 @@ export class FriendsFetcher implements IFetcher<FriendsData> {
     fetcherBuilderToAsyncIterable(this.buildFollowingFetcher)
 
   private readonly calcDuplication = (a: GithubFollowData, b: GithubFollowData): FriendsData =>
-    ({ friends: [...a.filter((a) => b.find((b) => a.login === b.login))] })
+    ({ friends: [...a.filter((a) => b.some((b) => a.login === b.login))] })
 
   public readonly fetch = async (): Promise<FriendsData> =>
     this.calcDuplication(
