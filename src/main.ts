@@ -22,7 +22,7 @@ void (async () => {
 
   const friendsTable = new TableRenderer()
     .setImageWidth(100)
-    .setTableWidth(8)
+    .setTableWidth(6)
     .setTableData(friendsData.friends.map((v) => ({
       linkHref: v.html_url,
       imageUrl: v.avatar_url,
