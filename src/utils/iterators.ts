@@ -3,7 +3,7 @@ import { DataFetcher } from '../fetchers/DataFetcher'
 export type FetcherBulder<T> = (page: number) => DataFetcher<T>
 
 export function fetcherBuilderToAsyncIterable<T extends unknown[]> (fetcherBuilder: FetcherBulder<T>): AsyncIterable<T> {
-  let page = 0
+  let page = 1
 
   return {
     [Symbol.asyncIterator]: () => ({
