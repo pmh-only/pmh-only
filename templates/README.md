@@ -4,32 +4,36 @@
   Cloud Architect & Backend Developer<br />
   <a href="mailto:opensource@pmh.codes">email</a> •
   <a href="https://pmh.codes">site</a>
+
   <br />
   <br />
   <br />
   <br />
   <br />
 
-  ## @pmh-only's top 5 languages
+  ## today works.
+  `{{wakatoday.total_seconds}}`ms
+
+  <br />
+  <br />
+
+  ## top 5 languages.
+
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
   | {{prefer[0].name}} | `{{prefer[0].percent}}%`  |
   | {{prefer[1].name}} | `{{prefer[1].percent}}%`  |
   | {{prefer[2].name}} | `{{prefer[2].percent}}%`  |
-  | {{prefer[3].name}} | `{{prefer[3].percent}}%`  |
-  | {{prefer[4].name}} | `{{prefer[4].percent}}%`  |
 
-  \* percent for all my works (based on [wakatime](https://wakatime.com))
+  \* powered by [wakatime](https://wakatime.com)
 
   <br />
   <br />
 
-  ## @pmh-only's friends
+  ## friends.
   <table>
     {{friend.table}}
   </table>
-
-  > 팔로잉과 팔로우에 포함된 사람만을 보여줍니다
   
   
   <br />
