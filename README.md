@@ -10,8 +10,8 @@
 
   |      language name | *percent                  |
   |:------------------:|:--------------------------|
-  | TypeScript | `36.51%`  |
-  | JavaScript | `22.45%`  |
+  | TypeScript | `36.5%`  |
+  | JavaScript | `22.49%`  |
   | Go | `5.64%`  |
 
   \* powered by [wakatime](https://wakatime.com)
