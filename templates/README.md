@@ -1,43 +1,59 @@
-<div align="center">
+**Minhyeok\
+Park.**
 
-  ## friends.
-  {{friend.table}}
+18yo Korean backend programmer & cloud architect.\
+:envelope: mailto:opensource@pmh.codes
+/
+:link: https://pmh.codes
 
-  <br />
-  <br />
+---
 
-  ## top 5 languages.
-
-  |      language name | *percent                  |
-  |:------------------:|:--------------------------|
-  | {{prefer[0].name}} | `{{prefer[0].percent}}%`  |
-  | {{prefer[1].name}} | `{{prefer[1].percent}}%`  |
-  | {{prefer[2].name}} | `{{prefer[2].percent}}%`  |
-
-  \* powered by [wakatime](https://wakatime.com)
-
-  <br />
-  <br />
- 
-  ## today works.
-  `{{wakatoday.total_seconds}}`ms
-
-  <br />
-  <br /> 
-
-  ## etc.
-  <details>
-    <summary>github-profile-trophy (click me)</summary>
-    
+```json
+{
+  "name": "Minhyeok Park",
+  "birthYear": 2005,
+  "techStack": ["AWS", "Node.js", "Nest.js", "Kubernetes", "Golang"],
+  "locale": "ko-KR, Korea (North or South depends on how you behave.)",
+  "awards": [
+    "Worldskills KR 2021-2022 Cloud-Computing",
+    "KITRI Best of the Best 10th",
+    "SK Planet, Smart-teen App Challenge 2022",
+    "blabla..."
+  ],
+  "preferLanguages": [
+    { "name": "{{prefer[0].name}}", "percent": {{prefer[0].percent}} },
+    { "name": "{{prefer[1].name}}", "percent": {{prefer[1].percent}} },
+    { "name": "{{prefer[2].name}}", "percent": {{prefer[2].percent}} }
+  ],
+  "funFacts": {
+    "tabIs": "2 spaces (change my mind)",
+    "semicolon": "is useless. remove it (change my mind also)",
+    "todayWorks": {{wakatoday.total_seconds}}, // ms
+    "homelabServer": "https://shutupandtakemy.codes"
+  }
+}
+```
+---
+<details>
+  <summary>github-profile-trophy (click me)</summary>
+  
 ![](https://github-profile-trophy.vercel.app/?username=pmh-only&row=1&column=8&theme=nord)
-    
-  </details>
-  <details>
-    <summary>github-readme-stats (click me)</summary>
-    
+  
+</details>
+<details>
+  <summary>github-readme-stats (click me)</summary>
+  
 ![](https://github-readme-stats.vercel.app/api?username=pmh-only&theme=nord)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh-only&theme=nord&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=pmh_only&layout=compact&theme=nord)
-    
-  </details>
-</div>
+  
+</details>
+
+---
+
+special thanks to my friends:
+{{friend.table}}
+
+---
+Q. how did you make this fancy README.md?\
+A. Talk is cheap. https://github.com/pmh-only/pmh-only/tree/master/src
