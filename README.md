@@ -1,3 +1,5 @@
+<img src="assets/satelite.svg" width="50px" align="right">
+
 **Minhyeok\
 Park.**
 
@@ -21,9 +23,9 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "TypeScript", "percent": 36.53 },
-    { "name": "JavaScript", "percent": 22.47 },
-    { "name": "Go", "percent": 5.63 }
+    { "name": "TypeScript", "percent": 36.9 },
+    { "name": "JavaScript", "percent": 22.27 },
+    { "name": "Go", "percent": 5.57 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
