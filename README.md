@@ -1,4 +1,4 @@
-<img src="assets/satelite.svg" width="50px" align="right">
+<img src="templates/assets/satelite.svg" width="50px" align="right">
 
 **Minhyeok\
 Park.**
