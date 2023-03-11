@@ -30,7 +30,6 @@ Park.**
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
     "semicolon": "is useless. remove it (change my mind also)",
-    "todayWorks": 0, // ms
     "homelabServer": "https://shutupandtakemy.codes"
   }
 }
