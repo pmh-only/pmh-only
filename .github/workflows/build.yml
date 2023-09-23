@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18.x'
-      - run: npx pnpm i
+      - run: npx pnpm i --no-frozen-lockfile
       - run: npx pnpm lint
       - run: npx pnpm build
       - run: node dist/main.js
