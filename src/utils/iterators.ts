@@ -25,6 +25,7 @@ export async function getAllOnAsyncIterable<T extends unknown[]> (iterable: Asyn
   const data = [] as unknown[]
 
   for await (const interated of iterable) {
+    console.log(interated)
     data.push(...interated)
   }
 
