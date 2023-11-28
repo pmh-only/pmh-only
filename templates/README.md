@@ -17,7 +17,7 @@ Park.**
   "techStack": ["AWS", "Node.js", "Nest.js", "Kubernetes", "Golang"],
   "locale": "ko-KR, Korea (North or South depends on how you behave.)",
   "awards": [
-    "Worldskills KR 2021-2022 Cloud-Computing",
+    "Worldskills KR 2023 Cloud Computing(AWS) Gold medalist",
     "KITRI Best of the Best 10th",
     "SK Planet, Smart-teen App Challenge 2022",
     "blabla..."
