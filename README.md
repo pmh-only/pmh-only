@@ -23,9 +23,9 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "TypeScript", "percent": 37.43 },
-    { "name": "JavaScript", "percent": 20.02 },
-    { "name": "Go", "percent": 5.65 }
+    { "name": "TypeScript", "percent": 37.39 },
+    { "name": "JavaScript", "percent": 19.99 },
+    { "name": "Go", "percent": 5.64 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
