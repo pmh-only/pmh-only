@@ -24,7 +24,7 @@ Park.**
   ],
   "preferLanguages": [
     { "name": "TypeScript", "percent": 37.7 },
-    { "name": "JavaScript", "percent": 19.77 },
+    { "name": "JavaScript", "percent": 19.76 },
     { "name": "Go", "percent": 5.59 }
   ],
   "funFacts": {
