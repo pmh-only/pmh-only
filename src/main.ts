@@ -33,6 +33,7 @@ void (async () => {
   const rendered = renderer
     .setTemplate(template.toString())
     // .setData('wakatoday.total_seconds', Math.floor(worksData.today * 1000))
+    .setData('age', new Date().getFullYear() - 2005)
     .setData('friend.table', friendsTable)
     .render()
 

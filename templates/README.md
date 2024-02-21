@@ -3,7 +3,7 @@
 **Minhyeok\
 Park.**
 
-18yo Korean backend programmer & cloud architect.\
+{{age}}yo Korean backend programmer & cloud architect.\
 :envelope: mailto:opensource@pmh.codes
 /
 :link: https://pmh.codes
