@@ -14,6 +14,9 @@ Park.**
 {
   "name": "Minhyeok Park",
   "birthYear": 2005,
+  "career": [
+    "Cloud Architect @ Samsung Electronics (Since. March 16 2024)"
+  ],
   "techStack": ["AWS", "Node.js", "Nest.js", "Kubernetes", "Golang"],
   "locale": "ko-KR, Korea (North or South depends on how you behave.)",
   "awards": [
@@ -30,7 +33,7 @@ Park.**
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
     "semicolon": "is useless. remove it (change my mind also)",
-    "homelabServer": "https://shutupandtakemy.codes"
+    "blog": "https://pmh.codes"
   }
 }
 ```
