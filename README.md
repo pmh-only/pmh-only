@@ -4,9 +4,9 @@
 Park.**
 
 19yo Korean backend programmer & cloud architect.\
-:envelope: mailto:opensource@pmh.codes
+✉️ mailto:opensource@pmh.codes
 /
-:link: https://pmh.codes
+🔗 https://pmh.codes
 
 ---
 
@@ -26,9 +26,9 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "TypeScript", "percent": 37.59 },
-    { "name": "JavaScript", "percent": 19.5 },
-    { "name": "Go", "percent": 5.88 }
+    { "name": "TypeScript", "percent": 37.54 },
+    { "name": "JavaScript", "percent": 19.47 },
+    { "name": "Go", "percent": 5.87 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
