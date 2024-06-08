@@ -61,3 +61,6 @@ special thanks to my friends:
 ---
 Q. how did you make this fancy README.md?\
 A. Talk is cheap. https://github.com/pmh-only/pmh-only/tree/master/src
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/pmh-only/pmh-only/assets/39158228/863eaf19-ca5c-4e85-9ff3-90bf9e56824e');]{x0000}$}
