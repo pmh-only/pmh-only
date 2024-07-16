@@ -2,8 +2,6 @@ import { Fetcher } from '../Fetcher'
 import { fetch } from 'undici'
 import { FetcherRegistrar } from '../FetcherRegistrar'
 
-import 'dotenv/config'
-
 export class FavLangFetcher implements Fetcher {
   public readonly key = 'favlang'
 
@@ -17,7 +15,7 @@ export class FavLangFetcher implements Fetcher {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          Authorization: `Bearer ${process.env.GITHUB_TOKEN ?? ''}`
+          Authorization: `Bearer ${process.env.PF_GITHUB_TOKEN ?? ''}`
         },
         body: JSON.stringify({
           query: `
