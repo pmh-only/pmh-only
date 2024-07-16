@@ -1,30 +1,24 @@
 {
   "name": "pmh-only",
   "version": "1.0.0",
-  "description": "",
+  "description": "Profile Page Generator",
   "main": "dist/main.js",
   "scripts": {
     "build": "tsc",
-    "lint": "eslint src",
-    "start": "pnpm lint && pnpm build && node dist/main.js",
-    "start:dev": "nodemon -e .ts --exec 'pnpm start'"
+    "start": "node ."
   },
   "keywords": [],
-  "author": "Minhyeok Park <opensource@pmh.codes>",
+  "author": "Minhyeok Park<pmh_only@pmh.codes>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.11.18",
-    "@typescript-eslint/eslint-plugin": "^5.0.0",
-    "eslint": "^8.30.0",
-    "eslint-config-standard-with-typescript": "^24.0.0",
-    "eslint-plugin-import": "^2.25.2",
-    "eslint-plugin-n": "^15.0.0",
-    "eslint-plugin-promise": "^6.0.0",
-    "nodemon": "^2.0.20",
-    "pnpm": "^7.21.0",
-    "typescript": "^4.9.4"
+    "@types/mustache": "^4.2.5",
+    "@types/node": "^20.14.10",
+    "ts-standard": "^12.0.2",
+    "typescript": "^5.5.3"
   },
   "dependencies": {
-    "undici": "^5.14.0"
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0",
+    "undici": "^6.19.2"
   }
 }
