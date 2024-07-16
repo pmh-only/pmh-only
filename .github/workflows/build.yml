@@ -1,0 +1,29 @@
+name: Build README
+
+on:
+  schedule:
+  - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest 
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'lts'
+      - run: npx pnpm i
+      - run: npx pnpm build
+      - run: npx pnpm start
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "build: \`$(date)\` commit"
+          git remote set-url origin --push https://github-actions[bot]:${GITHUB_TOKEN}@github.com/pmh-only/pmh-only.git
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
