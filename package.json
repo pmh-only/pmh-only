@@ -18,7 +18,9 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
+    "join-images": "^1.1.5",
     "mustache": "^4.2.0",
+    "sharp": "^0.33.4",
     "undici": "^6.19.2"
   }
 }
