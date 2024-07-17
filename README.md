@@ -4,7 +4,7 @@
 Park.**
 
 19yo Korean cloud architect & backend programmer.\
-✉️ mailto:opensource@pmh.codes
+✉️ mailto:pmh_only@pmh.codes
 /
 🔗 https://pmh.codes
 
