@@ -1,4 +1,4 @@
-<img src="assets/satellite.svg" width="50px" align="right" />
+<img src="assets/waving_hand.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
