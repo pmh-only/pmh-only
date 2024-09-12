@@ -1,4 +1,4 @@
-<img src="assets/rocket.svg" width="50px" align="right" />
+<img src="assets/sparkles.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
