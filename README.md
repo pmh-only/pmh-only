@@ -1,4 +1,4 @@
-<img src="assets/satellite.svg" width="50px" align="right" />
+<img src="assets/sparkles.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -26,15 +26,15 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "JavaScript", "percent": 34.8 },
-    { "name": "TypeScript", "percent": 16.9 },
-    { "name": "HTML", "percent": 13.9 },
+    { "name": "JavaScript", "percent": 34.6 },
+    { "name": "TypeScript", "percent": 16.8 },
+    { "name": "HTML", "percent": 13.8 },
     { "name": "Go", "percent": 7.9 },
     { "name": "Shell", "percent": 3.4 },
     { "name": "Python", "percent": 3.4 },
     { "name": "CSS", "percent": 3.4 },
     { "name": "Java", "percent": 2.9 },
-    { "name": "Dockerfile", "percent": 1.9 },
+    { "name": "Dockerfile", "percent": 2.4 },
     { "name": "HCL", "percent": 1.9 }
   ],
   "funFacts": {
