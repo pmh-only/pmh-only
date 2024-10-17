@@ -1,4 +1,4 @@
-<img src="assets/glowing_star.svg" width="50px" align="right" />
+<img src="assets/waving_hand.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -30,11 +30,11 @@ Park.**
     { "name": "TypeScript", "percent": 16.8 },
     { "name": "HTML", "percent": 13.8 },
     { "name": "Go", "percent": 7.9 },
-    { "name": "Shell", "percent": 3.4 },
+    { "name": "Shell", "percent": 3.9 },
     { "name": "Python", "percent": 3.4 },
     { "name": "CSS", "percent": 3.4 },
     { "name": "Java", "percent": 2.9 },
-    { "name": "Dockerfile", "percent": 2.4 },
+    { "name": "Dockerfile", "percent": 1.9 },
     { "name": "HCL", "percent": 1.9 }
   ],
   "funFacts": {
