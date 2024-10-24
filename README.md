@@ -1,4 +1,4 @@
-<img src="assets/satellite_antenna.svg" width="50px" align="right" />
+<img src="assets/glowing_star.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -26,10 +26,10 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "JavaScript", "percent": 34.6 },
-    { "name": "TypeScript", "percent": 16.8 },
-    { "name": "HTML", "percent": 13.8 },
-    { "name": "Go", "percent": 7.9 },
+    { "name": "JavaScript", "percent": 34.4 },
+    { "name": "TypeScript", "percent": 16.7 },
+    { "name": "HTML", "percent": 13.7 },
+    { "name": "Go", "percent": 7.8 },
     { "name": "Shell", "percent": 3.9 },
     { "name": "Python", "percent": 3.4 },
     { "name": "CSS", "percent": 3.4 },
