@@ -4,7 +4,7 @@
 Park.**
 
 19yo Korean cloud architect & backend programmer.\
-✉️ mailto:opensource@pmh.codes
+✉️ mailto:pmh_only@pmh.codes
 /
 🔗 https://pmh.codes
 
@@ -26,16 +26,16 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "JavaScript", "percent": 37.4 },
-    { "name": "TypeScript", "percent": 17.6 },
-    { "name": "HTML", "percent": 14.9 },
-    { "name": "Go", "percent": 6.9 },
-    { "name": "CSS", "percent": 3.7 },
-    { "name": "Java", "percent": 3.2 },
-    { "name": "Python", "percent": 2.6 },
-    { "name": "Shell", "percent": 2.1 },
-    { "name": "Dockerfile", "percent": 1.6 },
-    { "name": "C", "percent": 1.6 }
+    { "name": "JavaScript", "percent": 34.3 },
+    { "name": "TypeScript", "percent": 16.6 },
+    { "name": "HTML", "percent": 13.7 },
+    { "name": "Go", "percent": 7.8 },
+    { "name": "Shell", "percent": 3.9 },
+    { "name": "Python", "percent": 3.4 },
+    { "name": "CSS", "percent": 3.4 },
+    { "name": "Java", "percent": 2.9 },
+    { "name": "Dockerfile", "percent": 1.9 },
+    { "name": "HCL", "percent": 1.9 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
