@@ -1,4 +1,4 @@
-<img src="assets/rocket.svg" width="50px" align="right" />
+<img src="assets/waving_hand.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -26,16 +26,16 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "JavaScript", "percent": 35.1 },
-    { "name": "TypeScript", "percent": 13.7 },
-    { "name": "HTML", "percent": 12.6 },
-    { "name": "Go", "percent": 8.7 },
-    { "name": "Shell", "percent": 4.3 },
-    { "name": "Python", "percent": 3.8 },
-    { "name": "Java", "percent": 3.2 },
-    { "name": "CSS", "percent": 3.2 },
-    { "name": "Dockerfile", "percent": 2.1 },
-    { "name": "Jupyter Notebook", "percent": 1.6 }
+    { "name": "JavaScript", "percent": 34.3 },
+    { "name": "TypeScript", "percent": 16.6 },
+    { "name": "HTML", "percent": 13.7 },
+    { "name": "Go", "percent": 7.8 },
+    { "name": "Shell", "percent": 3.9 },
+    { "name": "Python", "percent": 3.4 },
+    { "name": "CSS", "percent": 3.4 },
+    { "name": "Java", "percent": 2.9 },
+    { "name": "Dockerfile", "percent": 1.9 },
+    { "name": "HCL", "percent": 1.9 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
