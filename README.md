@@ -1,4 +1,4 @@
-<img src="assets/sparkles.svg" width="50px" align="right" />
+<img src="assets/glowing_star.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -44,7 +44,7 @@ Park.**
   }
 }
 ```
-![Special thanks to my friends](./friends.png)
+[![Special thanks to my friends](./friends.png)](./FRIENDS.md)
 
 ---
 Q. how did you make this automatic-generated README.md?\
