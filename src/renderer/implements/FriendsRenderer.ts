@@ -1,4 +1,3 @@
-import { mkdir } from 'fs/promises'
 import { FetcherRegistrar } from '../../fetcher/FetcherRegistrar'
 import { Renderer } from '../Renderer'
 import { RendererRegistrar } from '../RendererRegistrar'
@@ -10,9 +9,6 @@ export class FriendsRenderer implements Renderer {
     const data = await FetcherRegistrar
       .getInstance()
       .requestData()
-
-    await mkdir('./tmp')
-      .catch(() => {})
 
     const downloadJobs = []
     const profileImages = [] as Buffer[]
@@ -64,9 +60,20 @@ export class FriendsRenderer implements Renderer {
       .resize(2200)
       .toBuffer()
 
-    await sharp(affinedImage)
+    const slicedImage = await sharp(affinedImage)
       .extract({ left: 50, top: 160, width: 2100, height: 800 })
+      .modulate({ brightness: 0.8 }) 
+      .toBuffer()
+      
+    await sharp(slicedImage)
+      .composite([{
+        input: './watermark.png',
+        left: 0,
+        top: 0
+      }])
+      .png()
       .toFile('./friends.png')
+
   }
 }
 
