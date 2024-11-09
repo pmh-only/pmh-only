@@ -8,13 +8,19 @@ export class FriendFetcher implements Fetcher {
     const follower = {
       cursor: undefined as string | undefined,
       isFinished: false,
-      ids: [] as string[]
+      list: [] as {
+        databaseId: number
+        login: string
+      }[]
     }
 
     const following = {
       cursor: undefined as string | undefined,
       isFinished: false,
-      ids: [] as string[]
+      list: [] as {
+        databaseId: number
+        login: string
+      }[]
     }
 
     for (;;) {
@@ -37,6 +43,7 @@ export class FriendFetcher implements Fetcher {
                       }
                       nodes {
                         databaseId
+                        login
                       }
                     }`
                   : ''}
@@ -50,6 +57,7 @@ export class FriendFetcher implements Fetcher {
                       }
                       nodes {
                         databaseId
+                        login
                       }
                     }`
                   : ''}
@@ -60,13 +68,13 @@ export class FriendFetcher implements Fetcher {
       }).then(async (res) => await res.json())
 
       if (!follower.isFinished) {
-        follower.ids.push(...data.viewer.followers.nodes.map((v: any) => v.databaseId))
+        follower.list.push(...data.viewer.followers.nodes)
         follower.isFinished = !(data.viewer.followers.pageInfo.hasNextPage as boolean)
         follower.cursor = data.viewer.followers.pageInfo.endCursor as string
       }
 
       if (!following.isFinished) {
-        following.ids.push(...data.viewer.following.nodes.map((v: any) => v.databaseId))
+        following.list.push(...data.viewer.following.nodes)
         following.isFinished = !(data.viewer.following.pageInfo.hasNextPage as boolean)
         following.cursor = data.viewer.following.pageInfo.endCursor as string
       }
@@ -76,7 +84,8 @@ export class FriendFetcher implements Fetcher {
       }
     }
 
-    return following.ids.filter((v) => follower.ids.includes(v))
+    return following.list.filter((v) => follower.list.find((v2) =>
+      v.databaseId === v2.databaseId) !== undefined)
   }
 }
 

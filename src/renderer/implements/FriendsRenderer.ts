@@ -13,9 +13,12 @@ export class FriendsRenderer implements Renderer {
     const downloadJobs = []
     const profileImages = [] as Buffer[]
 
-    for (const friend of data.friends as string[]) {
+    for (const friend of data.friends as {
+      databaseId: number
+      login: string
+    }[]) {
       downloadJobs.push((async () => {
-        const image = await fetch('https://avatars.githubusercontent.com/u/' + friend)
+        const image = await fetch('https://avatars.githubusercontent.com/u/' + friend.databaseId)
         const imageByte = await image.arrayBuffer()
 
         const imageResized = await sharp(imageByte)
