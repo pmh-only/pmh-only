@@ -1,4 +1,4 @@
-<img src="assets/rocket.svg" width="50px" align="right" />
+<img src="assets/waving_hand.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -26,13 +26,13 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "JavaScript", "percent": 34.1 },
-    { "name": "TypeScript", "percent": 17 },
-    { "name": "HTML", "percent": 13.6 },
-    { "name": "Go", "percent": 7.8 },
-    { "name": "Shell", "percent": 3.9 },
-    { "name": "Python", "percent": 3.4 },
-    { "name": "CSS", "percent": 3.4 },
+    { "name": "JavaScript", "percent": 33.9 },
+    { "name": "TypeScript", "percent": 17.4 },
+    { "name": "HTML", "percent": 13.5 },
+    { "name": "Go", "percent": 7.7 },
+    { "name": "Shell", "percent": 3.8 },
+    { "name": "Python", "percent": 3.3 },
+    { "name": "CSS", "percent": 3.3 },
     { "name": "Java", "percent": 2.9 },
     { "name": "Dockerfile", "percent": 1.9 },
     { "name": "HCL", "percent": 1.9 }
