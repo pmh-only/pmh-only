@@ -1,9 +1,9 @@
-<img src="assets/rocket.svg" width="50px" align="right" />
+<img src="assets/satellite.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
 
-19yo Korean cloud architect & backend programmer.\
+20yo Korean cloud architect & backend programmer.\
 ✉️ mailto:pmh_only@pmh.codes
 /
 🔗 https://pmh.codes
@@ -26,16 +26,16 @@ Park.**
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "JavaScript", "percent": 35.1 },
-    { "name": "TypeScript", "percent": 13.7 },
-    { "name": "HTML", "percent": 12.6 },
-    { "name": "Go", "percent": 8.7 },
-    { "name": "Shell", "percent": 4.3 },
-    { "name": "Python", "percent": 3.8 },
-    { "name": "Java", "percent": 3.2 },
-    { "name": "CSS", "percent": 3.2 },
-    { "name": "Dockerfile", "percent": 2.1 },
-    { "name": "Jupyter Notebook", "percent": 1.6 }
+    { "name": "JavaScript", "percent": 32.4 },
+    { "name": "TypeScript", "percent": 17.7 },
+    { "name": "HTML", "percent": 13.3 },
+    { "name": "Go", "percent": 8.4 },
+    { "name": "Shell", "percent": 4.8 },
+    { "name": "Python", "percent": 3.5 },
+    { "name": "CSS", "percent": 3.1 },
+    { "name": "HCL", "percent": 2.6 },
+    { "name": "Java", "percent": 2.6 },
+    { "name": "Dockerfile", "percent": 2.2 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
