@@ -1,5 +1,6 @@
 # Friends!
-* This table automatically adds your profile when I follow you and You follow me.
+> This is the list of who followed each back\
+> `= (Followers) ∩ (Followings)`
 
 |  |  |  |  |  |
 |--|--|--|--|--|
