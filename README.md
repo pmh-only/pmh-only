@@ -14,7 +14,7 @@ Park.**
 {
   "name": "Minhyeok Park",
   "birthYear": 2005,
-  "techStack": ["AWS", "Kubernetes", "Node.js", "Nest.js", "Golang"],
+  "techStack": ["AWS", "Kubernetes", "Node.js", "Golang"],
   "locale": "ko-KR, Korea (North or South depends on how you behave.)",
   "career": [
     "Cloud Architect @ Samsung Electronics (Since. March 16 2024)",
@@ -25,18 +25,6 @@ Park.**
     "SK Planet, Smart-teen App Challenge 2022",
     "blabla..."
   ],
-  "preferLanguages": [
-    { "name": "JavaScript", "percent": 32.1 },
-    { "name": "TypeScript", "percent": 18 },
-    { "name": "HTML", "percent": 13.2 },
-    { "name": "Go", "percent": 8.3 },
-    { "name": "Shell", "percent": 4.8 },
-    { "name": "Python", "percent": 3.5 },
-    { "name": "CSS", "percent": 3 },
-    { "name": "HCL", "percent": 2.6 },
-    { "name": "Java", "percent": 2.6 },
-    { "name": "Dockerfile", "percent": 2.2 }
-  ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
     "semicolon": "is useless. remove it (change my mind also)",
@@ -44,8 +32,21 @@ Park.**
   }
 }
 ```
+``` mermaid
+pie title Top used languages (reported by wakatime)
+  "JavaScript" : 32.1
+  "TypeScript" : 18
+  "HTML" : 13.2
+  "Go" : 8.3
+  "Shell" : 4.8
+  "Python" : 3.5
+  "CSS" : 3
+  "HCL" : 2.6
+  "Java" : 2.6
+  "Dockerfile" : 2.2
+```
+
 [![Special thanks to my friends](./friends.png)](./FRIENDS.md)
 
 ---
-Q. how did you make this automatic-generated README.md?\
-A. Talk is cheap. https://github.com/pmh-only/pmh-only/tree/master/src
+*ps: This README.md is [automatically generated](https://github.com/pmh-only/pmh-only/tree/master/src)
