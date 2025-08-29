@@ -1,4 +1,4 @@
-<img src="assets/rocket.svg" width="50px" align="right" />
+<img src="assets/sparkles.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -33,6 +33,15 @@ Park.**
 }
 ```
 ``` mermaid
+---
+config:
+  theme: 'base'
+  themeVariables:
+    darkMode: true
+    primaryColor: '#9977F7'
+    pie:
+      pieTitleTextSize: '20px'
+---
 pie title Top used languages (reported by wakatime)
   "JavaScript" : 32.1
   "TypeScript" : 18
