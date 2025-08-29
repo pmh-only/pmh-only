@@ -25,6 +25,11 @@ Park.**
     "SK Planet, Smart-teen App Challenge 2022",
     "blabla..."
   ],
+  "preferLanguages": [
+    {{#favlang}}
+    { "name": "{{name}}", "percent": {{percent}} }{{#colon}},{{/colon}}
+    {{/favlang}}
+  ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
     "semicolon": "is useless. remove it (change my mind also)",
@@ -32,23 +37,8 @@ Park.**
   }
 }
 ```
-``` mermaid
----
-config:
-  theme: 'base'
-  themeVariables:
-    darkMode: true
-    primaryColor: '#9977F7'
-    pie:
-      pieTitleTextSize: '20px'
----
-pie title Top used languages (reported by wakatime)
-{{#favlang}}
-  "{{name}}" : {{percent}}
-{{/favlang}}
-```
-
 [![Special thanks to my friends](./friends.png)](./FRIENDS.md)
 
 ---
-*ps: This README.md is [automatically generated](https://github.com/pmh-only/pmh-only/tree/master/src)
+*ps: This README.md is [automatically generated](https://github.com/pmh-only/pmh-only/tree/master/src)\
+
