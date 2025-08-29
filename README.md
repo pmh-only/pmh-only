@@ -1,4 +1,4 @@
-<img src="assets/satellite.svg" width="50px" align="right" />
+<img src="assets/rocket.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -17,22 +17,22 @@ Park.**
   "techStack": ["AWS", "Kubernetes", "Node.js", "Nest.js", "Golang"],
   "locale": "ko-KR, Korea (North or South depends on how you behave.)",
   "career": [
-    "Cloud Architect @ Samsung Electronics (Since. March 16 2024)"
+    "Cloud Architect @ Samsung Electronics (Since. March 16 2024)",
+    "KITRI Best of the Best 10th"
   ],
   "awards": [
     "Worldskills KR 2023 Cloud Computing(AWS) Gold medalist",
     "SK Planet, Smart-teen App Challenge 2022",
-    "KITRI Best of the Best 10th",
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "JavaScript", "percent": 32.4 },
-    { "name": "TypeScript", "percent": 17.7 },
-    { "name": "HTML", "percent": 13.3 },
-    { "name": "Go", "percent": 8.4 },
+    { "name": "JavaScript", "percent": 32.1 },
+    { "name": "TypeScript", "percent": 18 },
+    { "name": "HTML", "percent": 13.2 },
+    { "name": "Go", "percent": 8.3 },
     { "name": "Shell", "percent": 4.8 },
     { "name": "Python", "percent": 3.5 },
-    { "name": "CSS", "percent": 3.1 },
+    { "name": "CSS", "percent": 3 },
     { "name": "HCL", "percent": 2.6 },
     { "name": "Java", "percent": 2.6 },
     { "name": "Dockerfile", "percent": 2.2 }
