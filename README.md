@@ -1,4 +1,4 @@
-<img src="assets/sparkles.svg" width="50px" align="right" />
+<img src="assets/rocket.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -27,15 +27,15 @@ Park.**
   ],
   "preferLanguages": [
     { "name": "JavaScript", "percent": 32.1 },
-    { "name": "TypeScript", "percent": 18 },
-    { "name": "HTML", "percent": 13.2 },
-    { "name": "Go", "percent": 8.3 },
-    { "name": "Shell", "percent": 4.8 },
-    { "name": "Python", "percent": 3.5 },
+    { "name": "TypeScript", "percent": 18.6 },
+    { "name": "HTML", "percent": 13 },
+    { "name": "Go", "percent": 8.2 },
+    { "name": "Shell", "percent": 4.7 },
+    { "name": "Python", "percent": 3.4 },
     { "name": "CSS", "percent": 3 },
     { "name": "HCL", "percent": 2.6 },
     { "name": "Java", "percent": 2.6 },
-    { "name": "Dockerfile", "percent": 2.2 }
+    { "name": "Dockerfile", "percent": 2.1 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
@@ -47,5 +47,5 @@ Park.**
 [![Special thanks to my friends](./friends.png)](./FRIENDS.md)
 
 ---
-*ps: This README.md is [automatically generated](https://github.com/pmh-only/pmh-only/tree/master/src)\
+*ps: This README.md is [automatically generated](https://github.com/pmh-only/pmh-only/tree/master/src)
 
