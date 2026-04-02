@@ -1,46 +1,47 @@
-<img src="assets/rocket.svg" width="50px" align="right" />
+<img src="assets/satellite.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
 
-20yo Korean cloud architect & backend programmer.\
-✉️ mailto:pmh_only@pmh.codes
-/
-🔗 https://pmh.codes
+21yo Korean cloud architect & backend programmer.\
+✉️ mailto:pmh_only@pmh.codes / 🔗 https://pmh.codes
 
 ---
 
 ```json
 {
   "name": "Minhyeok Park",
-  "birthYear": 2005,
-  "techStack": ["AWS", "Kubernetes", "Node.js", "Golang"],
-  "locale": "ko-KR, Korea (North or South depends on how you behave.)",
+  "stacks": ["AWS", "Kubernetes", "TypeScript", "Golang"],
+  "locale": ["en-US", "ko-KR"],
+  "localtime": "Asia/Seoul"
   "career": [
-    "Cloud Architect @ Samsung Electronics (Since. March 16 2024)",
-    "KITRI Best of the Best 10th"
+    "Team Korea @ WorldSkills Korea (Since Sept. 2025 and continue)"
+    "Cloud Architect @ Samsung Electronics (Since Mar. 2024 and continue)",
+    "KITRI Best of the Best 10th",
+    "..."
   ],
   "awards": [
-    "Worldskills KR 2023 Cloud Computing(AWS) Gold medalist",
-    "SK Planet, Smart-teen App Challenge 2022",
-    "blabla..."
+    "WorldSkills National MVP - President of KR, Yoon",
+    "WorldSkills National Gold Medalist - Ministry of Employment and Labor",
+    "Smart-teen App Challenge - SK Planet",
+    "..."
   ],
-  "preferLanguages": [
-    { "name": "JavaScript", "percent": 32.1 },
-    { "name": "TypeScript", "percent": 18.6 },
-    { "name": "HTML", "percent": 13 },
-    { "name": "Go", "percent": 8.2 },
-    { "name": "Shell", "percent": 4.7 },
-    { "name": "Python", "percent": 3.4 },
-    { "name": "CSS", "percent": 3 },
-    { "name": "HCL", "percent": 2.6 },
-    { "name": "Java", "percent": 2.6 },
-    { "name": "Dockerfile", "percent": 2.1 }
+  "projectLanguages": [
+    { "name": "JavaScript", "percent": 30.9 },
+    { "name": "TypeScript", "percent": 17.6 },
+    { "name": "HTML", "percent": 12.8 },
+    { "name": "Go", "percent": 10 },
+    { "name": "Shell", "percent": 6 },
+    { "name": "Python", "percent": 4 },
+    { "name": "CSS", "percent": 3.2 },
+    { "name": "HCL", "percent": 2.4 },
+    { "name": "Java", "percent": 2.4 },
+    { "name": "Dockerfile", "percent": 2 }
   ],
   "funFacts": {
-    "tabIs": "2 spaces (change my mind)",
-    "semicolon": "is useless. remove it (change my mind also)",
-    "blog": "https://pmh.codes"
+    "tabWidth": 2,
+    "semi": false,
+    "website": "https://pmh.codes"
   }
 }
 ```
