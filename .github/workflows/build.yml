@@ -22,8 +22,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "build: \`$(date)\` commit"
           git remote set-url origin --push https://github-actions[bot]:${GITHUB_TOKEN}@github.com/pmh-only/pmh-only.git
-          git push origin master
+          if [ "$(git log -1 --format='%an')" = "github-actions[bot]" ]; then
+            git commit --amend -m "build: \`$(date)\` commit"
+            git push --force-with-lease origin master
+          else
+            git commit -m "build: \`$(date)\` commit"
+            git push origin master
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
