@@ -1,10 +1,14 @@
-<img src="assets/waving_hand.svg" width="50px" align="right" />
+<img src="assets/satellite.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
 
 21yo Korean cloud architect & backend programmer.\
 ✉️ mailto:pmh_only@pmh.codes / 🔗 https://pmh.codes
+
+> [!NOTE]
+> @pmh-only is now operating the ArchLinux Mirror!\
+> Try it now: https://ftp.io.kr
 
 ---
 
@@ -21,15 +25,16 @@ Park.**
     "..."
   ],
   "awards": [
+    "WorldSkills Asia Gold Medalist - Ministry of Labor of Taiwan",
     "WorldSkills National MVP - President of KR, Yoon",
     "WorldSkills National Gold Medalist - Ministry of Employment and Labor",
     "Smart-teen App Challenge - SK Planet",
     "..."
   ],
   "projectLanguages": [
-    { "name": "JavaScript", "percent": 30.4 },
-    { "name": "TypeScript", "percent": 18.1 },
-    { "name": "HTML", "percent": 12.6 },
+    { "name": "JavaScript", "percent": 30.3 },
+    { "name": "TypeScript", "percent": 18.5 },
+    { "name": "HTML", "percent": 12.5 },
     { "name": "Go", "percent": 9.8 },
     { "name": "Shell", "percent": 5.9 },
     { "name": "Python", "percent": 3.9 },
