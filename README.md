@@ -6,6 +6,10 @@ Park.**
 21yo Korean cloud architect & backend programmer.\
 ✉️ mailto:pmh_only@pmh.codes / 🔗 https://pmh.codes
 
+> [!NOTE]
+> @pmh-only is now operating the ArchLinux Mirror!\
+> Try it now: https://ftp.io.kr
+
 ---
 
 ```json
@@ -21,18 +25,19 @@ Park.**
     "..."
   ],
   "awards": [
+    "WorldSkills Asia Gold Medalist - Ministry of Labor of Taiwan",
     "WorldSkills National MVP - President of KR, Yoon",
     "WorldSkills National Gold Medalist - Ministry of Employment and Labor",
     "Smart-teen App Challenge - SK Planet",
     "..."
   ],
   "projectLanguages": [
-    { "name": "JavaScript", "percent": 30.4 },
-    { "name": "TypeScript", "percent": 18.1 },
-    { "name": "HTML", "percent": 12.6 },
-    { "name": "Go", "percent": 9.8 },
-    { "name": "Shell", "percent": 5.9 },
-    { "name": "Python", "percent": 3.9 },
+    { "name": "JavaScript", "percent": 29.9 },
+    { "name": "TypeScript", "percent": 18.2 },
+    { "name": "HTML", "percent": 13.2 },
+    { "name": "Go", "percent": 9.7 },
+    { "name": "Shell", "percent": 5.8 },
+    { "name": "Python", "percent": 3.8 },
     { "name": "CSS", "percent": 3.1 },
     { "name": "HCL", "percent": 2.3 },
     { "name": "Java", "percent": 2.3 },
