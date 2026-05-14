@@ -1,4 +1,4 @@
-<img src="assets/waving_hand.svg" width="50px" align="right" />
+<img src="assets/satellite_antenna.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -25,8 +25,9 @@ Park.**
     "..."
   ],
   "awards": [
+    "WorldSkills Ireland International Winner - Technological University Dublin",
     "WorldSkills Asia Gold Medalist - Ministry of Labor of Taiwan",
-    "WorldSkills National MVP - President of KR, Yoon",
+    "WorldSkills National MVP - President of Korea, Yoon",
     "WorldSkills National Gold Medalist - Ministry of Employment and Labor",
     "Smart-teen App Challenge - SK Planet",
     "..."
