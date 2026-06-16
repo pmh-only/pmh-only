@@ -1,4 +1,4 @@
-<img src="assets/satellite_antenna.svg" width="50px" align="right" />
+<img src="assets/sparkles.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -33,16 +33,16 @@ Park.**
     "..."
   ],
   "projectLanguages": [
-    { "name": "JavaScript", "percent": 29.9 },
-    { "name": "TypeScript", "percent": 18.2 },
-    { "name": "HTML", "percent": 13.2 },
-    { "name": "Go", "percent": 9.7 },
+    { "name": "JavaScript", "percent": 29.3 },
+    { "name": "TypeScript", "percent": 19 },
+    { "name": "HTML", "percent": 12.4 },
+    { "name": "Go", "percent": 11.3 },
     { "name": "Shell", "percent": 5.8 },
-    { "name": "Python", "percent": 3.8 },
-    { "name": "CSS", "percent": 3.1 },
-    { "name": "HCL", "percent": 2.3 },
-    { "name": "Java", "percent": 2.3 },
-    { "name": "Dockerfile", "percent": 1.9 }
+    { "name": "Python", "percent": 4 },
+    { "name": "CSS", "percent": 3.2 },
+    { "name": "HCL", "percent": 2.1 },
+    { "name": "Java", "percent": 2.1 },
+    { "name": "Dockerfile", "percent": 1.4 }
   ],
   "funFacts": {
     "tabWidth": 2,
