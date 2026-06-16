@@ -15,6 +15,7 @@ jobs:
         with:
           fetch-depth: 0
       - uses: actions/setup-node@v4
+      - run: npx pnpm approve-builds sharp
       - run: npx pnpm i
       - run: npx pnpm build
       - run: npx pnpm start
