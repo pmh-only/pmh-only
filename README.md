@@ -1,4 +1,4 @@
-<img src="assets/satellite_antenna.svg" width="50px" align="right" />
+<img src="assets/satellite.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -9,6 +9,10 @@ Park.**
 > [!NOTE]
 > @pmh-only is now operating the ArchLinux Mirror!\
 > Try it now: https://ftp.io.kr
+
+> [!NOTE]
+> @pmh-only is now operating the AS Network!\
+> Learn more: https://as218822.net
 
 ---
 
@@ -33,16 +37,16 @@ Park.**
     "..."
   ],
   "projectLanguages": [
-    { "name": "JavaScript", "percent": 29.3 },
-    { "name": "TypeScript", "percent": 19 },
-    { "name": "HTML", "percent": 12.4 },
-    { "name": "Go", "percent": 11.3 },
+    { "name": "JavaScript", "percent": 29 },
+    { "name": "TypeScript", "percent": 18.9 },
+    { "name": "HTML", "percent": 12.3 },
+    { "name": "Go", "percent": 11.6 },
     { "name": "Shell", "percent": 5.8 },
     { "name": "Python", "percent": 4 },
     { "name": "CSS", "percent": 3.2 },
     { "name": "HCL", "percent": 2.1 },
     { "name": "Java", "percent": 2.1 },
-    { "name": "Dockerfile", "percent": 1.4 }
+    { "name": "Jupyter Notebook", "percent": 1.4 }
   ],
   "funFacts": {
     "tabWidth": 2,
