@@ -1,4 +1,4 @@
-<img src="assets/satellite_antenna.svg" width="50px" align="right" />
+<img src="assets/sparkles.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -9,6 +9,10 @@ Park.**
 > [!NOTE]
 > @pmh-only is now operating the ArchLinux Mirror!\
 > Try it now: https://ftp.io.kr
+
+> [!NOTE]
+> @pmh-only is now operating the AS Network!\
+> Learn more: https://as218822.net
 
 ---
 
