@@ -1,4 +1,4 @@
-<img src="assets/satellite.svg" width="50px" align="right" />
+<img src="assets/waving_hand.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -23,12 +23,13 @@ Park.**
   "locale": ["en-US", "ko-KR"],
   "localtime": "Asia/Seoul"
   "career": [
-    "Team Korea @ WorldSkills Korea (Since Sept. 2025 and continue)"
-    "Cloud Architect @ Samsung Electronics (Since Mar. 2024 and continue)",
+    "Cloud Architect @ Samsung Electronics (Since Mar. 202.4 and continue)",
+    "Team Korea @ WorldSkills Korea (Sept. 2025. ~ Oct. 2026.)",
     "KITRI Best of the Best 10th",
     "..."
   ],
   "awards": [
+    "WorldSkills 2026 Shanghai Silver Medalist - 53 Cloud Computing",
     "WorldSkills Ireland International Winner - Technological University Dublin",
     "WorldSkills Asia Gold Medalist - Ministry of Labor of Taiwan",
     "WorldSkills National MVP - President of Korea, Yoon",
