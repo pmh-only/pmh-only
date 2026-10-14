@@ -1,4 +1,4 @@
-<img src="assets/satellite.svg" width="50px" align="right" />
+<img src="assets/sparkles.svg" width="50px" align="right" />
 
 **Minhyeok\
 Park.**
@@ -23,7 +23,7 @@ Park.**
   "locale": ["en-US", "ko-KR"],
   "localtime": "Asia/Seoul"
   "career": [
-    "Cloud Architect @ Samsung Electronics (Since Mar. 202.4 and continue)",
+    "Cloud Architect @ Samsung Electronics (Since Mar. 2024. and continue)",
     "Team Korea @ WorldSkills Korea (Sept. 2025. ~ Oct. 2026.)",
     "KITRI Best of the Best 10th",
     "..."
@@ -38,12 +38,12 @@ Park.**
     "..."
   ],
   "projectLanguages": [
-    { "name": "JavaScript", "percent": 29 },
-    { "name": "TypeScript", "percent": 18.9 },
+    { "name": "JavaScript", "percent": 29.3 },
+    { "name": "TypeScript", "percent": 18.8 },
     { "name": "HTML", "percent": 12.3 },
-    { "name": "Go", "percent": 11.6 },
-    { "name": "Shell", "percent": 5.8 },
-    { "name": "Python", "percent": 4 },
+    { "name": "Go", "percent": 11.5 },
+    { "name": "Shell", "percent": 5.7 },
+    { "name": "Python", "percent": 3.9 },
     { "name": "CSS", "percent": 3.2 },
     { "name": "HCL", "percent": 2.1 },
     { "name": "Java", "percent": 2.1 },
