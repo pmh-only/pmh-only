@@ -56,7 +56,8 @@ Park.**
   }
 }
 ```
-[![Special thanks to my friends](./friends.png)](./FRIENDS.md)
+[![Special thanks to my friends](./friends.png)](./FRIENDS.md)\
+[![NOT DPRK](./assets/dprkaptcha-passed.png)](https://dprkaptcha.com/r/68e81e75cd7141eebf83075a6c34589c2d95165f745e42afb428a9fbcd390519)
 
 ---
 *ps: This README.md is [automatically generated](https://github.com/pmh-only/pmh-only/tree/master/src)
